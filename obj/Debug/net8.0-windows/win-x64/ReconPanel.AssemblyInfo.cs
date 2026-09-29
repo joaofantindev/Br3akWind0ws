@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReconPanel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32d1ec6dd23719c68c5ae94d8a393196f85c1528")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReconPanel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReconPanel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

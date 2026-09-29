@@ -4,6 +4,7 @@
     <TargetFramework>net8.0-windows</TargetFramework>
     <Nullable>disable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
     <UseWindowsForms>true</UseWindowsForms>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <PublishSingleFile>true</PublishSingleFile>

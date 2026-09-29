@@ -83,7 +83,7 @@ public class MainForm : Form
     {
         if (sender is Button btn)
         {
-            currentButton?.BackColor = Color.FromArgb(40, 40, 40);
+            if (currentButton != null) currentButton.BackColor = Color.FromArgb(40, 40, 40);
             currentButton = btn;
             btn.BackColor = Color.FromArgb(0, 120, 180);
             ShowModule(btn.Tag?.ToString() ?? "Discovery");
