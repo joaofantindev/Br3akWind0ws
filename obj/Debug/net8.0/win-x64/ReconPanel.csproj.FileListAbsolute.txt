@@ -1,0 +1,7 @@
+C:\Users\etec\Desktop\etec\BreakWindows\ReconPanel\obj\Debug\net8.0\win-x64\ReconPanel.csproj.AssemblyReference.cache
+C:\Users\etec\Desktop\etec\BreakWindows\ReconPanel\obj\Debug\net8.0\win-x64\rpswa.dswa.cache.json
+C:\Users\etec\Desktop\etec\BreakWindows\ReconPanel\obj\Debug\net8.0\win-x64\ReconPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etec\Desktop\etec\BreakWindows\ReconPanel\obj\Debug\net8.0\win-x64\ReconPanel.AssemblyInfoInputs.cache
+C:\Users\etec\Desktop\etec\BreakWindows\ReconPanel\obj\Debug\net8.0\win-x64\ReconPanel.AssemblyInfo.cs
+C:\Users\etec\Desktop\etec\BreakWindows\ReconPanel\obj\Debug\net8.0\win-x64\ReconPanel.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\etec\BreakWindows\ReconPanel\obj\Debug\net8.0\win-x64\ReconPanel.MvcApplicationPartsAssemblyInfo.cache

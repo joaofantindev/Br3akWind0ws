@@ -1,0 +1,5 @@
+C:\Users\etec\Desktop\etec\BreakWindows\ReconPanel\obj\Debug\net8.0-windows\win-x64\ReconPanel.csproj.AssemblyReference.cache
+C:\Users\etec\Desktop\etec\BreakWindows\ReconPanel\obj\Debug\net8.0-windows\win-x64\ReconPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etec\Desktop\etec\BreakWindows\ReconPanel\obj\Debug\net8.0-windows\win-x64\ReconPanel.AssemblyInfoInputs.cache
+C:\Users\etec\Desktop\etec\BreakWindows\ReconPanel\obj\Debug\net8.0-windows\win-x64\ReconPanel.AssemblyInfo.cs
+C:\Users\etec\Desktop\etec\BreakWindows\ReconPanel\obj\Debug\net8.0-windows\win-x64\ReconPanel.csproj.CoreCompileInputs.cache
